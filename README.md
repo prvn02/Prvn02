@@ -1,5 +1,11 @@
+![ViewCount](https://views.whatilearened.today/views/github/prvn02/README.md.svg?cache=remove)
 ## Hi there 👋 I'm parveen Data Enthusiast
 # Aspiring Data scientist & Data Analyst
+Welcome to my GitHub profile!I'm Highly motivated and detail-oriented aspiring Data Scientist & Data Analyst with a strong background in data analysis, machine
+learning, and programming. Proficient in a range of tools and technologies, including Python, Power BI, Excel, and SQL.
+Proven ability to work effectively in fast-paced environments and deliver high-quality results.
+
+
 
 <!--
 **prvn02/Prvn02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
