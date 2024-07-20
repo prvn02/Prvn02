@@ -5,7 +5,7 @@ Welcome to my GitHub profile!I'm Highly motivated and detail-oriented aspiring D
 learning, and programming. Proficient in a range of tools and technologies, including Python, Power BI, Excel, and SQL.
 Proven ability to work effectively in fast-paced environments and deliver high-quality results.
 
-CV : [Parveen Resume]([https://drive.google.com/drive/folders/16DEPpMWyjJvx4f2U-mFz9bCinTifpWx6])/view?usp=drive_link)
+CV : [Parveen Resume](https://drive.google.com/file/d/1TPAqJFFzN9OuoJTuAW20crDy-CleMx5g/view?usp=sharing/view?usp=drive_link/view?usp=drive_link)
 [<img align="left" alt="prvn02 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/parveen-yadav-2oct/) 
 
 <!--
